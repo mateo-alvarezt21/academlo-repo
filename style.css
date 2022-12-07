@@ -1,0 +1,21 @@
+*{
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#tituloPrincipal {
+    text-align: center;
+    color: blue;
+    font-size: 80px;
+}
+
+#parrafoInicial {
+    text-align: center;
+    font-size: 20px;
+
+}
+
+#footer{
+    text-align: center;
+    padding-top: 100px;
+}
